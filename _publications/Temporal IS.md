@@ -4,10 +4,10 @@ collection: publications
 category: manuscripts
 permalink: /publication/Temporal IS
 date: 2023-06-15
-excerpt: ''
+excerpt: 'https://doi.org/10.1016/j.tcs.2023.113885'
 venue: 'Theoretical Computer Science, 961, p.113885.'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://doi.org/10.1016/j.tcs.2023.113885'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Hermelin, D., Itzhaki, Y., Molter, H. and Niedermeier, R., 2023. Temporal interval cliques and independent sets. Theoretical Computer Science, 961, p.113885.'
 ---
