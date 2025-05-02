@@ -3,7 +3,7 @@ title: "On the parameterized complexity of interval scheduling with eligible mac
 collection: publications
 category: manuscripts
 permalink: /publication/Unrelated Machines
-excerpt: 'https://doi.org/10.1016/j.jcss.2024.103533.'
+excerpt: 'https://doi.org/10.1016/j.jcss.2024.103533'
 date: 2024-09-01
 venue: 'Journal of Computer and System Sciences, 144, p.103533.'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
