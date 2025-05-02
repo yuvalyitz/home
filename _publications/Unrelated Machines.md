@@ -7,7 +7,7 @@ excerpt: 'https://doi.org/10.1016/j.jcss.2024.103533.'
 date: 2024-09-01
 venue: 'Journal of Computer and System Sciences, 144, p.103533.'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://doi.org/10.1016/j.jcss.2024.103533'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Hermelin, D., Itzhaki, Y., Molter, H. and Shabtay, D., 2024. On the parameterized complexity of interval scheduling with eligible machine sets. Journal of Computer and System Sciences, 144, p.103533.'
 ---
