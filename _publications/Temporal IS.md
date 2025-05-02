@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Temporal IS
 date: 2023-06-15
+excerpt: ''
 venue: 'Theoretical Computer Science, 961, p.113885.'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
