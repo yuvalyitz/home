@@ -1,5 +1,5 @@
 ---
-title: "Temporal interval cliques and independent setsr"
+title: "Temporal interval cliques and independent sets"
 collection: publications
 category: manuscripts
 permalink: /publication/Temporal IS
