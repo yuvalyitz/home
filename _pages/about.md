@@ -23,7 +23,6 @@ redirect_from:
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
