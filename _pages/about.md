@@ -23,7 +23,7 @@ redirect_from:
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
