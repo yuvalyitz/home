@@ -14,19 +14,19 @@ We provide new parameterized complexity results for Interval Scheduling on Eligi
 
 
 We provide new **parameterized complexity results** for *Interval Scheduling on Eligible Machines*.
-
-In this problem, a set of \( n \) jobs is given to be processed **non-preemptively** on a set of \( m \) machines.  
+In this problem, a set of $$n$$ jobs is given to be processed **non-preemptively** on a set of $$m$$ machines.  
 Each job has a processing time, a deadline, a weight, and a set of **eligible machines** that can process it.  
 The goal is to find a **maximum-weight subset** of jobs that can each be processed on one of its eligible machines such that it completes **exactly at its deadline**.
 
 We focus on two parameters:
 $$
-m \text{ — the number of machines, and } p_{\max} \text{ — the largest processing time.}
+m \text{ - the number of machines, and }
+p_{\max} \text{ - the largest processing time.}
 $$
 
 Our main contribution is showing
 $$
-\text{W[1]-hardness when parameterized by } m.
+\text{W[1]-hardness when parameterized by } $$m$$.
 $$
 This answers *Open Problem 8* of *Mnich and van Bevern’s* list of 15 open problems in parameterized complexity of scheduling problems (*Computers & Operations Research*, 2018).
 
