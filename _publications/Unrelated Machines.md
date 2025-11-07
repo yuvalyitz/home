@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/Unrelated Machines
 excerpt: 'https://doi.org/10.1016/j.jcss.2024.103533'
 date: 2024-09-01
-venue: 'Journal of Computer and System Sciences, 144, p.103533.'
+venue: 'Journal of Computer and System Sciences, Volume 144, p.103533.'
 paperurl: 'https://doi.org/10.1016/j.jcss.2024.103533'
 bibtexurl: 'https://yuvalyitz.github.io/home/files/hermelin2024parameterized.bib'
 citation: 'Hermelin, D., Itzhaki, Y., Molter, H. and Shabtay, D., 2024. On the parameterized complexity of interval scheduling with eligible machine sets. Journal of Computer and System Sciences, 144, p.103533.'
