@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/Temporal IS
 date: 2023-06-15
 excerpt: 'https://doi.org/10.1016/j.tcs.2023.113885'
-venue: 'Theoretical Computer Science, 961, p.113885.'
+venue: 'Theoretical Computer Science, Volume 961, p.113885.'
 slidesurl: ''
 paperurl: 'https://doi.org/10.1016/j.tcs.2023.113885'
 bibtexurl: 'https://yuvalyitz.github.io/home/files/hermelin2022temporal.bib'
