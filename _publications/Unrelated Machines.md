@@ -24,7 +24,7 @@ We focus on two parameters:
 - $$p_{\max}$$ - the largest processing time.
 
 Our main contribution is showing
-\text{W[1]-hardness when parameterized by } $$m$$.
+W[1]-hardness when parameterized by $$m$$.
 This answers *Open Problem 8* of *Mnich and van Bevern’s* list of 15 open problems in parameterized complexity of scheduling problems (*Computers & Operations Research*, 2018).
 
 Furthermore, we show
