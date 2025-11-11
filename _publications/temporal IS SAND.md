@@ -1,7 +1,7 @@
 ---
 title: "Temporal Unit Interval Independent Sets"
 collection: publications
-category: "Conference Paper"
+category: conferences
 permalink: /publication/temporal IS SAND
 excerpt: "We study the complexity of finding large independent sets in temporal unit interval graphs, establishing structural results and algorithmic bounds."
 date: 2022-03-14
