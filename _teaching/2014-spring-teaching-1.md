@@ -9,12 +9,12 @@ location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
+## LaTeX resources
 
-Heading 1
-======
+I maintain a couple of LaTeX templates that I use in my courses and talks, especially for Hebrew documents.
 
-Heading 2
-======
+- **Hebrew LaTeX Beamer** – minimal Beamer setup for Hebrew slides, compatible with English and math.  
+  [Open on Overleaf](https://www.overleaf.com/latex/templates/hebrew-latex-beamer/kbtvhnjggbmq)
 
-Heading 3
-======
+- **Hebrew LaTeX article/report template** – for homework, reports, and general documents in Hebrew.  
+  [Open on Overleaf](https://www.overleaf.com/latex/templates/hebrew-latex-template/rjkfxyhmmqfm)
