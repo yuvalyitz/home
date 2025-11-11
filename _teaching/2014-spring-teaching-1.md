@@ -9,7 +9,7 @@ location: "Beer-Sheva, Israel"
 ---
 
 This course introduces the foundations of algorithm design and computational complexity, emphasizing formal reasoning, efficiency analysis, and modern problem-solving paradigms.  
-Students learn to analyze classic algorithms and to prove lower and upper bounds within the framework of NP-completeness and parameterized complexity.
+Students learn to analyze classic algorithms and to prove lower and upper bounds within the framework of NP-completeness.
 
 ---
 
