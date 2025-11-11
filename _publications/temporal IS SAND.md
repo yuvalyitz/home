@@ -11,10 +11,8 @@ bibtexurl: "https://yuvalyitz.github.io/files/hermelin2022temporal.bib"
 citation: "Hermelin, D., Itzhaki, Y., Molter, H., and Niedermeier, R. (2022). *Temporal Unit Interval Independent Sets.* In *1st Symposium on Algorithmic Foundations of Dynamic Networks (SAND 2022).* Leibniz International Proceedings in Informatics (LIPIcs), Schloss Dagstuhl – Leibniz-Zentrum für Informatik."
 ---
 
-We investigate the **computational and structural properties** of *Temporal Unit Interval Independent Sets* — a dynamic-graph variant of the classic independent-set problem where edges appear and disappear over discrete time steps.
-
-Our study characterizes how temporal evolution affects interval representations and establishes **complexity and parameterized results** for finding large independent sets under temporal constraints.  
-The work contributes to the growing field of **temporal graph algorithms**, connecting interval-graph theory with dynamic-network models.
+Temporal graphs have been recently introduced to model changes to a given network that occur throughout a fixed period of time. We introduce and investigate the Temporal Δ Independent Set problem, a temporal variant of the well known Independent Set problem. This problem is e.g. motivated in the context of finding conflict-free schedules for maximum subsets of tasks, that have certain (changing) constraints on each day they need to be performed. We are specifically interested in the case where each task needs to be performed in a certain time-interval on each day and two tasks are in conflict on a day if their time-intervals overlap on that day. This leads us to considering Temporal Δ Independent Set on the restricted class of temporal unit interval graphs, i.e., temporal graphs where each layer is unit interval. 
+We present several hardness results for this problem, as well as two algorithms: The first is a constant-factor approximation algorithm for instances where τ, the total number of time steps (layers) of the temporal graph, and Δ, a parameter that allows us to model some tolerance in the conflicts, are constants. For the second result we use the notion of order preservation for temporal unit interval graphs that, informally, requires the intervals of every layer to obey a common ordering. We provide an FPT algorithm parameterized by the size of minimum vertex deletion set to order preservation.
 
 ---
 
