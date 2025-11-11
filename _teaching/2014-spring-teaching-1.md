@@ -8,18 +8,7 @@ date: 2024-03-01
 location: "Beer-Sheva, Israel"
 ---
 
-
-### תיאור הקורס  
-זהו קורס ראשון באלגוריתמים וסיבוכיות. הקורס עוסק באלגוריתמי מיון, מבני נתונים לחיפוש, ואלגוריתמים בסיסיים על רשתות.  
-החלק האחרון של הקורס מוקדש להשערת ‎P vs. NP‎ — אחת הבעיות המרכזיות והעמוקות בתחום האלגוריתמיקה.
-
-### מטרת הקורס  
-מטרת הקורס היא להקנות לסטודנטים כלים בסיסיים בתכנון אלגוריתמים באמצעות לימוד שיטות גנריות לפתרון בעיות קומבינטוריות.  
-בנוסף, הסטודנטים רוכשים כלים לניתוח סיבוכיות של אלגוריתמים, תוך שימת דגש על סיבוכיות זמן.
-
----
-
-### Course overview (English)
+### Course overview
 This introductory course in algorithms and computational complexity covers sorting algorithms, data structures for efficient search, and fundamental graph algorithms.  
 The final part of the course is devoted to the **P vs NP** question—one of the most profound open problems in computer science.  
 
