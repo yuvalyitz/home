@@ -8,7 +8,7 @@ date: 2022-03-14
 venue: "1st Symposium on Algorithmic Foundations of Dynamic Networks (SAND 2022)"
 paperurl: "https://doi.org/10.4230/LIPIcs.SAND.2022.19"
 bibtexurl: "https://yuvalyitz.github.io/files/hermelin2022temporal.bib"
-citation: "Hermelin, D., Itzhaki, Y., Molter, H., and Niedermeier, R. (2022). *Temporal Unit Interval Independent Sets.* In *1st Symposium on Algorithmic Foundations of Dynamic Networks (SAND 2022).* Leibniz International Proceedings in Informatics (LIPIcs), Schloss Dagstuhl – Leibniz-Zentrum für Informatik."
+citation: "Danny Hermelin, Yuval Itzhaki, Hendrik Molter, and Rolf Niedermeier. Temporal Unit Interval Independent Sets. In 1st Symposium on Algorithmic Foundations of Dynamic Networks (SAND 2022). Leibniz International Proceedings in Informatics (LIPIcs), Volume 221, pp. 19:1-19:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2022) "
 ---
 
 Temporal graphs have been recently introduced to model changes to a given network that occur throughout a fixed period of time. We introduce and investigate the Temporal Δ Independent Set problem, a temporal variant of the well known Independent Set problem. This problem is e.g. motivated in the context of finding conflict-free schedules for maximum subsets of tasks, that have certain (changing) constraints on each day they need to be performed. We are specifically interested in the case where each task needs to be performed in a certain time-interval on each day and two tasks are in conflict on a day if their time-intervals overlap on that day. This leads us to considering Temporal Δ Independent Set on the restricted class of temporal unit interval graphs, i.e., temporal graphs where each layer is unit interval. 
