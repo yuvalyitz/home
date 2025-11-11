@@ -1,12 +1,13 @@
 ---
 title: "Latex Hebrew Templates"
-type: "Templates"
 collection: teaching
-permalink: /_teaching/latex_hebrew
+type: "Templates"
+permalink: /teaching/latex-hebrew
 venue: "Ben-Gurion University of the Negev"
 date: 2022-09-01
 location: "Beer-Sheva, Israel"
 ---
+
 ### LaTeX resources
 Hebrew-compatible LaTeX templates designed to facilitate the preparation of clear, bilingual slides and documents.
 
