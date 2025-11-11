@@ -8,12 +8,10 @@ date: 2022-10-01
 location: "Beer-Sheva, Israel"
 ---
 
-### Course overview
+## Course overview
 This introductory course in algorithms and computational complexity covers sorting algorithms, data structures for efficient search, and fundamental graph algorithms. The final part of the course is devoted to the **P vs NP** question - one of the most profound open problems in computer science.  
 
 Students learn to design algorithms using generic paradigms for combinatorial problems and to analyze their **time complexity** formally.
-
-
 
 ## Course materials
 
