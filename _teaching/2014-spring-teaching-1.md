@@ -25,6 +25,9 @@ The final part of the course is devoted to the **P vs NP** question—one of the
 
 Students learn to design algorithms using generic paradigms for combinatorial problems and to analyze their **time complexity** formally.
 
+You can download the full course handout here:  
+[📄 Download Foundations of Algorithms and Complexity (PDF)](/files/foundations-of-algorithms-handout.pdf)
+
 ---
 
 ## LaTeX resources
