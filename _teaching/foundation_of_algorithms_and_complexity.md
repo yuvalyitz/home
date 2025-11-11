@@ -6,6 +6,7 @@ permalink: /teaching/foundations-of-algorithms-and-complexity
 venue: "Ben-Gurion University of the Negev, Department of Industrial Engineering and Management"
 date: 2022-10-01
 location: "Beer-Sheva, Israel"
+order: 1
 ---
 
 ## Course overview
