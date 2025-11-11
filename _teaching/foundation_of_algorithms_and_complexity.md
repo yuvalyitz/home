@@ -14,8 +14,32 @@ The final part of the course is devoted to the **P vs NP** question - one of the
 
 Students learn to design algorithms using generic paradigms for combinatorial problems and to analyze their **time complexity** formally.
 
+
+
+## Course materials
+
 You can download the exercise handout here:  
 [📄 Download Foundations of Algorithms and Complexity (PDF)](/files/EX00S.pdf)
+
+### Exercise Slides
+
+Below are the exercise slide decks used throughout the semester:
+
+| # | Topic | PDF |
+|---|-------|-----|
+| 01 | Exercise 01 | [EX01P.pdf]({{ "/files/EX01P.pdf" | relative_url }}) |
+| 02 | Exercise 02 | [EX02P.pdf]({{ "/files/EX02P.pdf" | relative_url }}) |
+| 03 | Exercise 03 | [EX03P.pdf]({{ "/files/EX03P.pdf" | relative_url }}) |
+| 04 | Exercise 04 | [EX04P.pdf]({{ "/files/EX04P.pdf" | relative_url }}) |
+| 05 | Exercise 05 | [EX05P.pdf]({{ "/files/EX05P.pdf" | relative_url }}) |
+| 06 | Exercise 06 | [EX06P.pdf]({{ "/files/EX06P.pdf" | relative_url }}) |
+| 07 | Exercise 07 | [EX07P.pdf]({{ "/files/EX07P.pdf" | relative_url }}) |
+| 08 | Exercise 08 | [EX08P.pdf]({{ "/files/EX08P.pdf" | relative_url }}) |
+| 09 | Exercise 09 | [EX09P.pdf]({{ "/files/EX09P.pdf" | relative_url }}) |
+| 10 | Exercise 10 | [EX10P.pdf]({{ "/files/EX10P.pdf" | relative_url }}) |
+| 11 | Exercise 11 | [EX11P.pdf]({{ "/files/EX11P.pdf" | relative_url }}) |
+| 12 | Exercise 12 | [EX12P.pdf]({{ "/files/EX12P.pdf" | relative_url }}) |
+| 13 | Exercise 13 | [EX13P.pdf]({{ "/files/EX13P.pdf" | relative_url }}) |
 
 ---
 
