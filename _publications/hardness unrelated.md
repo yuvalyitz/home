@@ -11,15 +11,9 @@ bibtexurl: "https://yuvalyitz.github.io/files/hermelin2022hardness.bib"
 citation: "Hermelin, D., Itzhaki, Y., Molter, H., and Shabtay, D. (2022). *Hardness of Interval Scheduling on Unrelated Machines.* In *17th International Symposium on Parameterized and Exact Computation (IPEC 2022).* Leibniz International Proceedings in Informatics (LIPIcs), Vol. 249, pp. 18:1–18:16. Schloss Dagstuhl – Leibniz-Zentrum für Informatik."
 ---
 
-We establish new **parameterized** and **classical hardness** results for *Interval Scheduling on Unrelated Machines* — a fundamental scheduling problem motivated by just-in-time manufacturing, where jobs must be completed exactly at their deadlines.
-
-Given \( n \) jobs and \( m \) machines, each job has a deadline, a weight, and machine-dependent processing times.  
-The objective is to maximize the total weight of jobs completed precisely at their deadlines, yielding a uniquely defined processing interval per job on each machine.
-
-Our results show that the problem is **W[1]-hard when parameterized by the number of machines \(m\)**, even in the restricted setting of parallel machines with *eligible-machine* sets.  
-This resolves **Open Problem 8** from Mnich and van Bevern’s 2018 list of open questions on parameterized complexity in scheduling.  
-
-We further prove that the **unweighted** variant is **NP-complete**, settling an open problem posed by Sung and Vlach (*Journal of Scheduling*, 2005).
+We provide new (parameterized) computational hardness results for Interval Scheduling on Unrelated Machines. It is a classical scheduling problem motivated from just-in-time or lean manufacturing, where the goal is to complete jobs exactly at their deadline. We are given n jobs and m machines. Each job has a deadline, a weight, and a processing time that may be different on each machine. The goal is find a schedule that maximizes the total weight of jobs completed exactly at their deadline. Note that this uniquely defines a processing time interval for each job on each machine.
+Interval Scheduling on Unrelated Machines is closely related to coloring interval graphs and has been thoroughly studied for several decades. However, as pointed out by Mnich and van Bevern [Computers & Operations Research, 2018], the parameterized complexity for the number m of machines as a parameter remained open. We resolve this by showing that Interval Scheduling on Unrelated Machines is W[1]-hard when parameterized by the number m of machines. To this end, we prove W[1]-hardness with respect to m of the special case where we have parallel machines with eligible machine sets for jobs. This answers Open Problem 8 of Mnich and van Bevern’s list of 15 open problems in the parameterized complexity of scheduling [Computers & Operations Research, 2018].
+Furthermore, we resolve the computational complexity status of the unweighted version of Interval Scheduling on Unrelated Machines by proving that it is NP-complete. This answers an open question by Sung and Vlach [Journal of Scheduling, 2005].
 
 ---
 
