@@ -1,7 +1,7 @@
 ---
 title: "On the parameterized complexity of interval scheduling with eligible machine sets"
 collection: publications
-category: manuscripts 
+category: conferences
 permalink: /publication/Unrelated Machines2
 excerpt: 'https://doi.org/10.1016/j.jcss.2024.103533'
 date: 2024-09-01
