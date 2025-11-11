@@ -1,7 +1,7 @@
 ---
 title: "Hardness of Interval Scheduling on Unrelated Machines"
 collection: publications
-category: "Conference Paper"
+category: conferences
 permalink: /publication/hardness unrelated
 excerpt: "We resolve two open problems by establishing W[1]-hardness and NP-completeness results for Interval Scheduling on Unrelated Machines."
 date: 2022-12-14
