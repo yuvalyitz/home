@@ -1,19 +1,24 @@
 ---
-title: "Teaching experience 1"
+title: "Foundations of Algorithms and Complexity"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/foundations-of-algorithms-and-complexity
+venue: "Ben-Gurion University of the Negev, Department of Industrial Engineering and Management"
+date: 2024-03-01
+location: "Beer-Sheva, Israel"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course introduces the foundations of algorithm design and computational complexity, emphasizing formal reasoning, efficiency analysis, and modern problem-solving paradigms.  
+Students learn to analyze classic algorithms and to prove lower and upper bounds within the framework of NP-completeness and parameterized complexity.
+
+---
+
 ## LaTeX resources
 
-I maintain a couple of LaTeX templates that I use in my courses and talks, especially for Hebrew documents.
+As part of the course materials, I prepared **Hebrew-compatible LaTeX templates** to help students produce clean, bilingual slides and reports.  
+These templates were used for lecture presentations, homework assignments, and student submissions.
 
-- **Hebrew LaTeX Beamer** – minimal Beamer setup for Hebrew slides, compatible with English and math.  
+- **Hebrew LaTeX Beamer** – a minimal Beamer setup for Hebrew slides, compatible with English text and math.  
   [Open on Overleaf](https://www.overleaf.com/latex/templates/hebrew-latex-beamer/kbtvhnjggbmq)
 
 - **Hebrew LaTeX article/report template** – for homework, reports, and general documents in Hebrew.  
