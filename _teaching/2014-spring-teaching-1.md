@@ -15,8 +15,8 @@ Students learn to analyze classic algorithms and to prove lower and upper bounds
 
 ## LaTeX resources
 
-As part of the course materials, I prepared **Hebrew-compatible LaTeX templates** to help students produce clean, bilingual slides and reports.  
-These templates were used for lecture presentations, homework assignments, and student submissions.
+As part of the course materials, I prepared **Hebrew-compatible LaTeX templates** to help teachers produce clean, bilingual slides and documents.  
+These templates were used for maintaining lecture notes, presentations, homework assignments, and solutions.
 
 - **Hebrew LaTeX Beamer** – a minimal Beamer setup for Hebrew slides, compatible with English text and math.  
   [Open on Overleaf](https://www.overleaf.com/latex/templates/hebrew-latex-beamer/kbtvhnjggbmq)
