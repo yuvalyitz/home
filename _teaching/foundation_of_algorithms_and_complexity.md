@@ -37,16 +37,3 @@ Below are the exercise slide decks used throughout the semester:
 | 11 | Reductions| [EX11P.pdf]({{ "/files/EX11P.pdf" | relative_url }}) |
 | 12 | NP-Completeness | [EX12P.pdf]({{ "/files/EX12P.pdf" | relative_url }}) |
 | 13 | Exam Preparation | [EX13P.pdf]({{ "/files/EX13P.pdf" | relative_url }}) |
-
----
-
-## LaTeX resources
-
-As part of the course materials, I prepared **Hebrew-compatible LaTeX templates** to help teachers produce clean, bilingual slides and documents.  
-These templates were used for maintaining lecture notes, presentations, homework assignments, and solutions.
-
-- **Hebrew LaTeX Beamer** – a minimal Beamer setup for Hebrew slides, compatible with English text and math.  
-  [Open on Overleaf](https://www.overleaf.com/latex/templates/hebrew-latex-beamer/kbtvhnjggbmq)
-
-- **Hebrew LaTeX article/report template** – for homework, reports, and general documents in Hebrew.  
-  [Open on Overleaf](https://www.overleaf.com/latex/templates/hebrew-latex-template/rjkfxyhmmqfm)
