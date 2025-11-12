@@ -6,6 +6,7 @@ permalink: /publication/Fair Repetitive JIT
 excerpt: 'https://doi.org/10.1007/s00453-025-01322-y'
 date: 2025-05-26
 venue: 'Algorithmica, Volume 87, pages 1340–1368'
+slidesurl: '/files/Fair2024_slides.pdf'
 paperurl: 'https://doi.org/10.1007/s00453-025-01322-y'
 bibtexurl: 'https://yuvalyitz.github.io/files/heeger2025fair.bib'
 citation: 'Heeger, K., Hermelin, D., Itzhaki, Y., Molter, H. and Shabtay, D., 2025. Fair Repetitive Interval Scheduling. Algorithmica'
