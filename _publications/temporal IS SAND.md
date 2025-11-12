@@ -8,6 +8,7 @@ date: 2022-03-14
 venue: "1st Symposium on Algorithmic Foundations of Dynamic Networks (SAND 2022)"
 paperurl: "https://doi.org/10.4230/LIPIcs.SAND.2022.19"
 bibtexurl: "https://yuvalyitz.github.io/files/hermelin2022temporal.bib"
+slidesurl: '/files/SAND2022_slides.pdf'
 citation: "Danny Hermelin, Yuval Itzhaki, Hendrik Molter, and Rolf Niedermeier. Temporal Unit Interval Independent Sets. In 1st Symposium on Algorithmic Foundations of Dynamic Networks (SAND 2022). Leibniz International Proceedings in Informatics (LIPIcs), Volume 221, pp. 19:1-19:16, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2022) "
 ---
 
